@@ -10,7 +10,7 @@ import base64
 
 #  Config 
 MODEL_PATH = "vosk-model-small-en-us-0.15"
-DEFAULT_BAD_WORDS = {"damn", "hell", "shit", ""}
+DEFAULT_BAD_WORDS = {"damn", "hell", "shit", "ugly", "bastard", "bullshit", "kill"}
 
 # Load model 
 if not os.path.exists(MODEL_PATH):
@@ -157,6 +157,7 @@ st.markdown("""
         <div class="footer-text">&lt;/&gt;  Aditya Gupta</div>
     </div>
 """, unsafe_allow_html=True)
+
 
 
 
