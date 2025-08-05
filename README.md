@@ -9,7 +9,7 @@ Built using **Streamlit**, **Vosk**, and **PyDub**, this app allows users to:
 - Play or download the cleaned audio and transcript
 ---
 **Demo Video**
-[![Watch on YouTube](https://img.youtube.com/vi/_SJJUYutshM/maxresdefault.jpg)](https://youtu.be/_SJJUYutshM)
+[![Watch on YouTube](https://img.youtube.com/vi/aquua39EVKI/maxresdefault.jpg)](https://youtu.be/aquua39EVKI)
 
 [Watch video on GitHub (demoVideo.mp4 link)](https://github.com/verbinden6/Censor-Speak-Audio-Transcription-Censorship/raw/main/Demo%20Video.mp4)
 
